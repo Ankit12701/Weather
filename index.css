@@ -1,0 +1,40 @@
+img{
+    height:200px;
+    width:200px;
+    margin-left: 45%;
+}
+body{
+    background-color: #C4DFAA;
+}
+h1{
+    text-align: center;
+    color:blue;
+    text-decoration: solid;
+    padding: 10px;
+}
+h3{
+    text-align: center;
+    color:blue;
+    text-decoration: solid;
+    padding: 10px;
+}
+button{
+    background: #5E5DF0;
+    border-radius: 999px;
+    box-shadow: #5E5DF0 0 10px 20px -10px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    margin-left:42.5%;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    opacity: 1;
+    outline: 0 solid transparent;
+    border: 0;
+}
+ 
+
+
+
+
